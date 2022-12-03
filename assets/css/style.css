@@ -155,7 +155,7 @@ Default Btn CSS
   overflow: hidden;
   z-index: 1;
   color: #ffffff;
-  background-color: #ff8758;
+  background-color: #6900FF;
   -webkit-transition: 0.6s;
   transition: 0.6s;
   border-radius: 5px;
@@ -205,8 +205,8 @@ Default Btn CSS
   text-align: center;
   overflow: hidden;
   z-index: 1;
-  color: #ff8758;
-  background-color: #ffede5;
+  color: #ffffff;
+  background-color: #9951FF;
   -webkit-transition: 0.6s;
   transition: 0.6s;
   border-radius: 5px;
@@ -1811,7 +1811,7 @@ Coworking Space Area CSS
   content: '';
   position: absolute;
   height: 100%;
-  background-color: #ff8758;
+  background-color: #FFD700;
   left: 0;
   top: 0;
   -webkit-transition: 0.6s;
