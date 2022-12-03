@@ -1038,7 +1038,7 @@ Main Slides Area CSS
 }
 
 .main-slides-item.item-two {
-  background-image: url(../images/main-slides/slides-bg-2.jpg);
+  /* background-image: url(../images/main-slides/slides-bg-2.jpg); */
 }
 
 .main-slides-item::before {
@@ -1049,9 +1049,9 @@ Main Slides Area CSS
   top: 0;
   height: 100%;
   width: 100%;
-  background-color: #000000;
+  background-color: #FFD700;
   z-index: -1;
-  opacity: .65;
+  /* opacity: .65; */
 }
 
 .main-slides-content {
