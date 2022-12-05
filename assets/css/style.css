@@ -1857,7 +1857,7 @@ Coworking Space Area CSS
   left: 5px;
   bottom: 5px;
   display: inline-block;
-  background-color: #192e3f;
+  background-color: #6900FF;
   color: #ffffff;
   height: 70px;
   width: 70px;
@@ -2154,7 +2154,7 @@ Solution Area CSS
 }
 
 .single-solution .solution-content {
-  background-color: #192e3f;
+  background-color: #6900FF;
   padding: 30px;
   text-align: center;
   border-radius: 0 0 5px 5px;
@@ -2195,7 +2195,7 @@ Solution Area CSS
 }
 
 .single-solution:hover .solution-content {
-  background-color: #ff8758;
+  background-color: #FFD700;
 }
 
 /*================================================
