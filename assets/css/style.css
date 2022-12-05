@@ -576,7 +576,7 @@ Navbar Area CSS
   right: 0;
   width: 0;
   height: 2px;
-  background-color: #ff8758;
+  background-color: #6900FF;
   -webkit-transition: all ease 0.5s;
   transition: all ease 0.5s;
   border-radius: 30px;
@@ -592,7 +592,7 @@ Navbar Area CSS
 }
 
 .main-navbar .navbar .navbar-nav .nav-item a:hover, .main-navbar .navbar .navbar-nav .nav-item a:focus, .main-navbar .navbar .navbar-nav .nav-item a.active {
-  color: #ff8758;
+  color: #6900FF;
 }
 
 .main-navbar .navbar .navbar-nav .nav-item a:hover::before, .main-navbar .navbar .navbar-nav .nav-item a:focus::before, .main-navbar .navbar .navbar-nav .nav-item a.active::before {
@@ -988,7 +988,7 @@ Navbar Area CSS
     font-size: 15px;
   }
   .main-responsive-nav .main-responsive-menu.mean-container .mean-nav ul li a.active {
-    color: #ff8758;
+    color: #6900FF;
   }
   .main-responsive-nav .main-responsive-menu.mean-container .mean-nav ul li a i {
     display: none;
