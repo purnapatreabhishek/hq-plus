@@ -2202,7 +2202,7 @@ Solution Area CSS
 Video Area CSS
 =================================================*/
 .video-area {
-  background-color: #6f19b2;
+  background-color: #6900FF;
   position: relative;
   z-index: 1;
 }
@@ -2242,7 +2242,7 @@ Video Area CSS
   line-height: 100px;
   background-color: #ffffff;
   border-radius: 50%;
-  color: #ff8758;
+  color: #6900FF;
   position: absolute;
   z-index: 1;
   top: 50%;
@@ -2415,7 +2415,7 @@ Benefits Area CSS
 .benefits-content span {
   font-size: 16px;
   font-weight: 500;
-  color: #ff8758;
+  color: #6900FF;
 }
 
 .benefits-content h3 {
@@ -2449,7 +2449,7 @@ Benefits Area CSS
 }
 
 .benefits-content .benefits-list li i {
-  color: #ff8758;
+  color: #6900FF;
   position: absolute;
   left: 0;
   top: 50%;
@@ -2477,7 +2477,7 @@ Membership Area CSS
 .membership-area::before {
   position: absolute;
   content: "";
-  background-color: #ff8758;
+  background-color: #FFD700;
   height: 100%;
   width: 100%;
   left: 0;
@@ -2496,7 +2496,7 @@ Membership Area CSS
 }
 
 .single-membership-table {
-  background-color: #192e3f;
+  background-color: #6900FF;
   padding: 35px 30px;
   border-radius: 5px;
   margin-bottom: 30px;
@@ -2591,7 +2591,7 @@ Testimonial Area CSS
   width: 75px;
   line-height: 75px;
   background-color: #ffffff;
-  color: #6f19b2;
+  color: #6900FF;
   -webkit-box-shadow: 0 2px 28px 0 rgba(0, 0, 0, 0.09);
           box-shadow: 0 2px 28px 0 rgba(0, 0, 0, 0.09);
   text-align: center;
@@ -2617,7 +2617,7 @@ Testimonial Area CSS
 
 .testimonial-item .info span {
   font-size: 16px;
-  color: #ff8758;
+  color: black;
 }
 
 .testimonial-slides.owl-theme .owl-nav {
@@ -2693,7 +2693,7 @@ Subscribe Area CSS
 .subscribe-area::before {
   position: absolute;
   content: "";
-  background-color: #6f19b2;
+  background-color: #6900FF;
   height: 100%;
   width: 100%;
   left: 0;
@@ -2782,8 +2782,8 @@ Subscribe Area CSS
 }
 
 .subscribe-content-box .newsletter-form button {
-  background: #ff8758;
-  color: #ffffff;
+  background: #FFD700;
+  color: black;
   border: none;
   height: 65px;
   padding: 0 25px 0 25px;
@@ -5479,7 +5479,7 @@ Pagination CSS
 Footer Area CSS
 =================================================*/
 .footer-area {
-  background-color: #192e3f;
+  background-color: #FFD700;
 }
 
 .single-footer-widget {
@@ -5514,11 +5514,11 @@ Footer Area CSS
   position: absolute;
   left: 0;
   top: 4px;
-  color: #ff8758;
+  color: #6900FF;
 }
 
 .single-footer-widget .widget-info li a {
-  color: #ffffff;
+  color: #6900FF;
 }
 
 .single-footer-widget .widget-info li a:hover {
@@ -5533,7 +5533,7 @@ Footer Area CSS
 .single-footer-widget h3 {
   margin-bottom: 25px;
   font-size: 25px;
-  color: #ffffff;
+  color: #6900FF;
   padding-bottom: 25px;
   font-weight: 600;
   position: relative;
@@ -5598,8 +5598,8 @@ Footer Area CSS
   height: 35px;
   width: 35px;
   line-height: 35px;
-  border: 1px solid #ffffff;
-  color: #ffffff;
+  border: 1px solid #6900FF;
+  color: #6900FF;
   border-radius: 50px;
   text-align: center;
   font-size: 18px;
@@ -5629,14 +5629,14 @@ Copy Right Area CSS
 }
 
 .copyright-area .copyright-area-content p {
-  color: #ffffff;
+  color: #6900FF;
   font-family: "Jost", sans-serif;
 }
 
 .copyright-area .copyright-area-content p a {
   display: inline-block;
   font-weight: 600;
-  color: #ff8758;
+  color: #6900FF;
 }
 
 .copyright-area .copyright-area-content p a:hover {
@@ -5660,7 +5660,7 @@ Copy Right Area CSS
 
 .copyright-area .copyright-area-content ul li a {
   display: inline-block;
-  color: #ffffff;
+  color: #6900FF;
 }
 
 .copyright-area .copyright-area-content ul li a:hover {
@@ -5674,7 +5674,7 @@ Copy Right Area CSS
   right: -13px;
   width: 1px;
   height: 14px;
-  background: #ff8758;
+  background: #6900FF;
 }
 
 .copyright-area .copyright-area-content ul li:last-child {
